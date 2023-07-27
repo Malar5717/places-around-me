@@ -128,11 +128,11 @@ reposit the same into github using the github commands.
 ```
 
 ## Output:
-![Sundaram Medical Foundation](smf.png)
-![Glen's Bake House](glensbakehouse.png)
-![Kamaraj IAS Academy](kamarajiasacademy.png)
-![Royal Enfield Showroom](royalenfieldshowroom.png)
-![Success Book House](successbookhouse.png)
+![Sundaram Medical Foundation](./smf.png)
+![Glen's Bake House](./glensbakehouse.png)
+![Kamaraj IAS Academy](./kamarajiasacademy.png)
+![Royal Enfield Showroom](./royalenfieldshowroom.png)
+![Success Book House](./successbookhouse.png)
 
 ## Result:
 The experiment is successful.
